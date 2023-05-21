@@ -17,8 +17,6 @@ int a = Vvod("Введите первое целое число A: ");
 int b = Vvod("Введите второе целое положительное число B: ");
 Console.WriteLine("Введённые числа: " + a +" и " + b);
 
-
-
 int a_step_b = Stepen(a,b);
 Console.WriteLine("Степень А^B равна " + a_step_b);
 
@@ -33,20 +31,3 @@ int Stepen(int x, int y)
     }
     return res;
 }
-
-//if (x==0) step=0;
-//else x=6;
-/*for ( int i=0; i < y; i++)
-7 {
-8 stepen=x*x
-temp = numbers[i];
-9 numbers[n - i - 1] = temp;
-*/
-
-
-//int n=1;
-//while (n < result);
-//{
-//Console.WriteLine(n*n*n);
-//}s[i] = numbers[n - i - 1];
-//10 number
