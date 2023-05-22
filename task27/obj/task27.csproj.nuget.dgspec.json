@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Artur\\C-dz4\\task27\\task27.csproj": {}
+    "C:\\Artur\\Учёба программирование\\Lesson4\\C-dz4\\task27\\task27.csproj": {}
   },
   "projects": {
-    "C:\\Artur\\C-dz4\\task27\\task27.csproj": {
+    "C:\\Artur\\Учёба программирование\\Lesson4\\C-dz4\\task27\\task27.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Artur\\C-dz4\\task27\\task27.csproj",
+        "projectUniqueName": "C:\\Artur\\Учёба программирование\\Lesson4\\C-dz4\\task27\\task27.csproj",
         "projectName": "task27",
-        "projectPath": "C:\\Artur\\C-dz4\\task27\\task27.csproj",
-        "packagesPath": "C:\\Users\\Ovod\\.nuget\\packages\\",
-        "outputPath": "C:\\Artur\\C-dz4\\task27\\obj\\",
+        "projectPath": "C:\\Artur\\Учёба программирование\\Lesson4\\C-dz4\\task27\\task27.csproj",
+        "packagesPath": "C:\\Users\\Ovod2013\\.nuget\\packages\\",
+        "outputPath": "C:\\Artur\\Учёба программирование\\Lesson4\\C-dz4\\task27\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ovod\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ovod2013\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

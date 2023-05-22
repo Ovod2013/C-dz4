@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ovod\\.nuget\\packages\\": {}
+    "C:\\Users\\Ovod2013\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Artur\\C-dz4\\task25\\task25.csproj",
+      "projectUniqueName": "C:\\Artur\\Учёба программирование\\Lesson4\\C-dz4\\task25\\task25.csproj",
       "projectName": "task25",
-      "projectPath": "C:\\Artur\\C-dz4\\task25\\task25.csproj",
-      "packagesPath": "C:\\Users\\Ovod\\.nuget\\packages\\",
-      "outputPath": "C:\\Artur\\C-dz4\\task25\\obj\\",
+      "projectPath": "C:\\Artur\\Учёба программирование\\Lesson4\\C-dz4\\task25\\task25.csproj",
+      "packagesPath": "C:\\Users\\Ovod2013\\.nuget\\packages\\",
+      "outputPath": "C:\\Artur\\Учёба программирование\\Lesson4\\C-dz4\\task25\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ovod\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ovod2013\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

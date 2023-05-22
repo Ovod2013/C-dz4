@@ -1,4 +1,5 @@
-﻿/*Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+﻿/*Задача 27: Напишите программу, которая принимает 
+на вход число и выдаёт сумму цифр в числе.
 452 -> 11
 82 -> 10
 9012 -> 12
@@ -20,14 +21,11 @@ Console.WriteLine("Сумма всех цифр: " + summa );
 int SumCifr(int x)
 {
     int sumCifr=0; int i=0; int ch=x; int ost=0;
-    Console.WriteLine("вне цикла: " + sumCifr + " i " + i + " ch " + ch );
-    for ( i=0; ch > 1; i++)
+    for ( i=0; ch >= 1; i++)
     {
-        Console.WriteLine("В цикле: " + i + "  " + ch );
-        //ost=ch%10;
+        ost=ch%10;
         sumCifr=sumCifr+ost;
-
-
+        ch=ch/10;
     }
     return sumCifr;
 }

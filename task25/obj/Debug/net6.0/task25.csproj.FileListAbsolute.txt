@@ -13,3 +13,18 @@ C:\Artur\C-dz4\task25\obj\Debug\net6.0\refint\task25.dll
 C:\Artur\C-dz4\task25\obj\Debug\net6.0\task25.pdb
 C:\Artur\C-dz4\task25\obj\Debug\net6.0\task25.genruntimeconfig.cache
 C:\Artur\C-dz4\task25\obj\Debug\net6.0\ref\task25.dll
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\bin\Debug\net6.0\task25.exe
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\bin\Debug\net6.0\task25.deps.json
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\bin\Debug\net6.0\task25.runtimeconfig.json
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\bin\Debug\net6.0\task25.dll
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\bin\Debug\net6.0\task25.pdb
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\obj\Debug\net6.0\task25.csproj.AssemblyReference.cache
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\obj\Debug\net6.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\obj\Debug\net6.0\task25.AssemblyInfoInputs.cache
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\obj\Debug\net6.0\task25.AssemblyInfo.cs
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\obj\Debug\net6.0\task25.csproj.CoreCompileInputs.cache
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\obj\Debug\net6.0\task25.dll
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\obj\Debug\net6.0\refint\task25.dll
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\obj\Debug\net6.0\task25.pdb
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\obj\Debug\net6.0\task25.genruntimeconfig.cache
+C:\Artur\Учёба программирование\Lesson4\C-dz4\task25\obj\Debug\net6.0\ref\task25.dll
